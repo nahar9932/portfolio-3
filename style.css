@@ -1,0 +1,139 @@
+.img-1 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
+.carousel-bg{
+    background: #72b54b;
+}
+.r-sadow{
+    background: white;
+   box-shadow:0px -2px 8px #72b54b ;
+}
+.nav-link{
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+
+}
+.nav-link:hover{
+    background: #72b54b;
+    color: white;
+}
+.card-img img{
+        width: 100%;
+}
+
+.btn-color{
+    background: #72b54b;
+    color: white;
+    
+}
+
+.btn-color:hover{
+    background: transparent;
+    border:2px solid #72b54b;
+    color: #72b54b;
+    transition: 2s;
+}
+
+.img{
+    width: 100%;
+    height: 50px;
+    background: #fff;
+    margin-bottom: -16px;
+   
+
+}
+.allpart{
+   background: #fff;
+}
+.borrder-org{
+    box-sizing: border-box;
+    border-bottom:3px solid orange;  
+}
+.borrder-orgs:hover{
+    background: radial-gradient(white,white,orange );
+    
+}
+.org{
+    color: orange;
+}
+.borrder-info{
+    box-sizing: border-box;
+    border-bottom:3px solid red;
+}
+.borrder-infos:hover{
+    background: radial-gradient(white,white , red);
+}
+.infos:hover{
+    border-top:15px solid goldenrod;
+}
+
+.info{
+    color: red;
+}
+.borrder-tom{
+    box-sizing: border-box;
+    border-bottom:3px solid tomato;
+}
+.borrder-toms:hover{
+    background: radial-gradient(white,white,tomato );
+    
+}
+.tom{
+    color: tomato;
+}
+.borrder-green{
+    box-sizing: border-box;
+    border-bottom:3px solid green;
+}
+.borrder-greens:hover{
+    background: radial-gradient(white,white,green );
+    
+}
+.green{
+    color: green;
+}
+.imgs{
+    width: 100px;
+    height: 100px;      
+}
+.imgs img{
+    width: 100%;
+    border-radius: 50%;
+    margin:-10;  
+}
+.imgss{
+    width: 500px;
+}
+
+.test-box{
+    width: 150px;
+    height: 150px;
+    background: #72b54b;
+    transform: rotateZ(45deg);
+}
+.test-box img{
+    width: 80%;
+    border: 5px solid white;
+    position: absolute;
+    top:20px;
+    left: 10px;
+
+}
+.bg-cor{
+    background: #72b54b31;
+}
+.b-shadow{
+    box-sizing: border-box;
+    box-shadow:0px 10px 20px #72b54b65;
+
+}
+.bg-gr{
+    background: #72b54b;
+}
+.left-toggle{
+    
+}
